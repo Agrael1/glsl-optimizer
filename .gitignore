@@ -47,6 +47,7 @@ manifest.txt
 .libs/
 Makefile
 Makefile.in
+.vs
 
 ipch
 
